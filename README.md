@@ -44,17 +44,10 @@ As a Data Analyst, my key responsibilities include:
 - Met with team members to discuss ongoing projects and how I can contribute.
 - Began initial training sessions on Power BI and Tableau to get up to speed with the tools.
 
-### Week 2: May 21st - May 27th
-- **May 21st:** Began my first project focusing on data visualization using Power BI.
-- Attended a training session on best practices for data visualization.
-- Created initial dashboards to visualize sales data, focusing on understanding the key metrics and data sources.
-- Conducted a data quality assessment to identify any issues in the datasets.
-- Met with stakeholders to gather requirements for the dashboards and discuss the expected outcomes.
-
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
 - Advanced skills in Tableau for data visualization and storytelling.
-- Data analysis and automation using Python, including ETL processes and predictive analytics.
+- Data analysis using Python, including processes and predictive analytics.
 - Strong understanding of data cleaning, preparation, and quality assurance.
 - Effective communication and presentation skills for sharing insights and findings.
 
