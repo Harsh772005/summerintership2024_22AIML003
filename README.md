@@ -1,4 +1,4 @@
-# summerintership2024_22AIML003
+# SUMMERINTERNSHIP2024_22AIML003
 
 ## 14th May 2024
 # Summer Internship 2024
@@ -91,8 +91,6 @@ By the end of the week, I had developed a functional prototype of the sales dash
 - Next, I researched different ML algorithms that are commonly used for classification tasks, such as Logistic Regression, Decision Trees, and Support Vector Machines (SVM). I explored their theoretical foundations and practical applications, comparing their strengths and weaknesses in the context of loan approval prediction.
 
 - Throughout the week, I also focused on feature engineering, a crucial step in improving model performance. I generated new features that could potentially enhance the predictive power of the model. For instance, I created derived features such as debt-to-income ratio and loan-to-value ratio, which are important indicators in the loan approval process.
-
-- I also learned about model evaluation metrics specific to classification problems, such as precision, recall, F1-score, and Area Under the ROC Curve (AUC-ROC). Understanding these metrics is vital for assessing the performance of my models and making informed decisions on model selection and tuning.
 
 - By the end of the week, I had a solid understanding of the dataset and the ML techniques required for the Loan Approval Prediction project. This foundational knowledge will guide my work in the upcoming weeks as I build, evaluate, and refine the predictive models.
 
