@@ -17,18 +17,13 @@ As a Data Analyst, my key responsibilities include:
    - Clean and model data for visualization.
    - Design and implement visualizations to convey key insights.
 
-2. **Tableau:**
-   - Develop and optimize data visualizations.
-   - Prepare data for analysis.
-   - Design interactive dashboards to present complex data in an understandable format.
-
-3. **Python:**
+2. **Python:**
    - Perform data analysis and scripting.
    - Automate data extraction, transformation, and loading (ETL) processes.
    - Implement automation scripts to streamline data workflows.
    - Support advanced data analytics and machine learning projects.
 
-4. **General Data Analysis:**
+3. **General Data Analysis:**
    - Collect, clean, and preprocess data.
    - Analyze datasets to extract meaningful insights.
    - Collaborate with team members to understand data requirements and deliver solutions.
