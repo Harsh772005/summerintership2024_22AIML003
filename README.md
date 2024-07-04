@@ -63,6 +63,14 @@ By the end of the week, I had developed a functional prototype of the sales dash
 
 - By the end of the week, I successfully scraped and processed weather data, which I stored in a CSV file for further analysis. This hands-on experience with web scraping not only improved my Python programming skills but also provided valuable insights into data collection from web sources, a crucial skill for data analysts.
 
+### Week 4: June 3rd - June 7th
+This week, I focused on Exploratory Data Analysis (EDA), an essential step in understanding the structure, patterns, and relationships within a dataset. For the first two days, I dedicated my time to learning the fundamentals of EDA. I explored various techniques such as data visualization, summary statistics, and correlation analysis to uncover insights and identify data quality issues. Using Python libraries like pandas, matplotlib, and seaborn, I practiced these techniques on sample datasets to solidify my understanding.
+
+After grasping the basics of EDA, I began working on my internship project, which involved predicting house prices in Delhi. This project required me to apply my newly acquired EDA skills to analyze the dataset thoroughly. I started by loading the house price data and performing initial data cleaning, such as handling missing values and removing duplicates. I then generated summary statistics and visualizations to understand the distribution of house prices and the relationships between different features, such as location, size, and amenities.
+
+To gain deeper insights, I conducted correlation analysis to identify which features had the most significant impact on house prices. I created various plots, including scatter plots, box plots, and histograms, to visualize these relationships. These visualizations helped me identify trends and outliers, guiding me in selecting the most relevant features for the prediction model.
+
+Throughout the week, I documented my findings and prepared the data for the modeling phase, which would follow in the subsequent weeks. This hands-on experience with EDA not only enhanced my analytical skills but also provided a strong foundation for building accurate and reliable predictive models.
 
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
