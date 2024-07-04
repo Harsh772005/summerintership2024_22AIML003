@@ -57,6 +57,17 @@ By the end of the week, I had developed a functional prototype of the sales dash
 
 ![Sales Dashboard](images/sales_dashboard.png)
 
+### Week 3: May 27th - May 31st
+- This week, I focused on learning about web scraping and practicing on weather data. Web scraping is the process of extracting data from websites, which can then be used for analysis and reporting. I started by familiarizing myself with the basic concepts of web scraping, including understanding HTML structure, identifying the elements to extract, and using libraries to automate the extraction process.
+
+- I learned to use popular Python libraries such as BeautifulSoup and requests to perform web scraping tasks. BeautifulSoup is used to parse HTML and XML documents, allowing easy navigation and data extraction, while requests is used to send HTTP requests to websites to retrieve their content.
+
+- For my practice project, I chose to scrape weather data from a weather forecasting website. This involved writing Python scripts to send requests to the website, parse the HTML content, and extract relevant information such as temperature, humidity, and weather conditions. I then cleaned and structured the data to make it suitable for analysis.
+
+- Throughout the week, I encountered and resolved several challenges, such as handling dynamic content and dealing with websites that block scraping attempts. I also learned about ethical considerations and legal issues related to web scraping, ensuring that my practices complied with the website's terms of service.
+
+- By the end of the week, I successfully scraped and processed weather data, which I stored in a CSV file for further analysis. This hands-on experience with web scraping not only improved my Python programming skills but also provided valuable insights into data collection from web sources, a crucial skill for data analysts.
+
 
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
