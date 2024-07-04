@@ -83,6 +83,20 @@ By the end of the week, I had developed a functional prototype of the sales dash
 
 - This foundational knowledge in ML will be crucial as I continue to work on improving the house price prediction model in the coming weeks.
 
+### Week 6: June 17th - June 21st
+- This week, I began exploring new concepts in Machine Learning (ML) that are necessary for my new final internship project: Loan Approval Prediction. This project will span the next three weeks, and my initial focus was on understanding the specific requirements and challenges associated with predicting loan approvals.
+
+- To start, I familiarized myself with the dataset, which includes various features such as applicant income, credit history, loan amount, and other relevant factors. I performed data cleaning and preprocessing tasks to ensure the data was in a suitable format for analysis. This involved handling missing values, encoding categorical variables, and normalizing numerical features.
+
+- Next, I researched different ML algorithms that are commonly used for classification tasks, such as Logistic Regression, Decision Trees, and Support Vector Machines (SVM). I explored their theoretical foundations and practical applications, comparing their strengths and weaknesses in the context of loan approval prediction.
+
+- Throughout the week, I also focused on feature engineering, a crucial step in improving model performance. I generated new features that could potentially enhance the predictive power of the model. For instance, I created derived features such as debt-to-income ratio and loan-to-value ratio, which are important indicators in the loan approval process.
+
+- I also learned about model evaluation metrics specific to classification problems, such as precision, recall, F1-score, and Area Under the ROC Curve (AUC-ROC). Understanding these metrics is vital for assessing the performance of my models and making informed decisions on model selection and tuning.
+
+- By the end of the week, I had a solid understanding of the dataset and the ML techniques required for the Loan Approval Prediction project. This foundational knowledge will guide my work in the upcoming weeks as I build, evaluate, and refine the predictive models.
+
+
 
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
