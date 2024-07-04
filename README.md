@@ -72,6 +72,18 @@ By the end of the week, I had developed a functional prototype of the sales dash
 
 - Throughout the week, I documented my findings and prepared the data for the modeling phase, which would follow in the subsequent weeks. This hands-on experience with EDA not only enhanced my analytical skills but also provided a strong foundation for building accurate and reliable predictive models.
 
+### Week 5: June 10th - June 14th
+- This week, I delved into the basics of Machine Learning (ML), which is essential for my final internship project on house price prediction. The first few days were dedicated to understanding the fundamental concepts of ML, including supervised and unsupervised learning, training and testing datasets, and model evaluation metrics. I utilized various online resources and tutorials to grasp these concepts and their practical applications.
+
+- Following my introduction to ML, I focused on learning two key algorithms: Random Forest and Linear Regression. Random Forest is an ensemble learning method that operates by constructing multiple decision trees and merging their results to improve accuracy and prevent overfitting. Linear Regression, on the other hand, is a straightforward yet powerful algorithm for predicting a target variable based on one or more predictor variables.
+
+- To solidify my understanding, I practiced implementing these algorithms using Python libraries such as scikit-learn. I started with Linear Regression, where I learned how to fit a model to data, interpret coefficients, and evaluate model performance using metrics like Mean Squared Error (MSE) and R-squared. Next, I moved on to Random Forest, experimenting with hyperparameter tuning and feature importance to enhance model accuracy.
+
+- By the end of the week, I had a solid grasp of both algorithms and was ready to apply them to my internship project. I started training the Delhi home price prediction model using the dataset I had prepared earlier. This involved splitting the data into training and testing sets, fitting the models, and evaluating their performance. This hands-on experience with ML models provided me with practical skills that are crucial for building and refining predictive models.
+
+- This foundational knowledge in ML will be crucial as I continue to work on improving the house price prediction model in the coming weeks.
+
+
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
 - Advanced skills in Tableau for data visualization and storytelling.
