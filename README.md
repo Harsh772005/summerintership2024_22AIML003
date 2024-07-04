@@ -94,6 +94,24 @@ By the end of the week, I had developed a functional prototype of the sales dash
 
 - By the end of the week, I had a solid understanding of the dataset and the ML techniques required for the Loan Approval Prediction project. This foundational knowledge will guide my work in the upcoming weeks as I build, evaluate, and refine the predictive models.
 
+### Week 7: June 24th - June 28th
+- This week, I focused on understanding the data provided by my external guide for the Loan Approval Prediction project, which will be the main focus of my final internship project over the next three weeks.
+
+- The initial step involved thoroughly examining the dataset to understand its structure, content, and relevance to the loan approval prediction problem. The dataset included a variety of features such as applicant details (e.g., income, credit score), loan specifics (e.g., amount requested, loan term), and application status (approved or denied).
+
+- I began by exploring the data to gain a high-level overview of its characteristics. This involved loading the data into a Pandas DataFrame and performing preliminary tasks such as checking for missing values, data types, and basic statistics for each feature. I used methods like `info()`, `describe()`, and `head()` to get a sense of the data's completeness and distributions.
+
+- I then delved deeper into understanding the features and their relevance to the loan approval decision. This included analyzing feature distributions, identifying correlations between features, and understanding the impact of various features on loan approval outcomes. I used visualizations like histograms, box plots, and scatter plots to explore feature distributions and relationships.
+
+- One significant task was to map out the data’s business context. I reached out to my external guide to gain insights into the decision-making process for loan approvals, including key criteria used by banks and financial institutions. This understanding helped me frame the problem more effectively and identify which features were likely to be most predictive of loan approval.
+
+- I also began researching relevant machine learning techniques and methodologies for classification tasks, specifically for loan approval predictions. I reviewed different algorithms, such as Logistic Regression, Decision Trees, Random Forest, and Gradient Boosting Machines, to evaluate which methods might be most suitable for the project based on the data's characteristics and the project's requirements.
+
+- In addition, I explored various techniques for feature selection and engineering, which are crucial for improving model performance. I examined methods like Recursive Feature Elimination (RFE), feature importance from models, and correlation-based feature selection to identify the most relevant features for the prediction model.
+
+- By the end of the week, I had a comprehensive understanding of the dataset and the problem domain. I documented my findings and prepared a detailed plan for the next phases of the project, which include data preprocessing, model building, and evaluation. This foundational work set the stage for developing a robust and effective loan approval prediction model.
+
+- This week’s efforts provided me with the necessary background knowledge and prepared me for the upcoming tasks in the loan approval prediction project.
 
 
 ## Skills Learned
