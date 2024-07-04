@@ -44,6 +44,19 @@ As a Data Analyst, my key responsibilities include:
 - Met with team members to discuss ongoing projects and how I can contribute.
 - Began initial training sessions on Power BI and Tableau to get up to speed with the tools.
 
+### Week 2: May 20th - May 24th
+This week, I focused on developing a Power BI dashboard to visualize sales data, which was my first major project. I began by familiarizing myself with the Power BI interface, including its various tools and features, to create effective and interactive visualizations. My initial task was to connect to the company's sales database, where I performed data extraction, transformation, and loading (ETL) processes to ensure that the data was clean, consistent, and ready for analysis.
+
+Throughout the week, I explored different visualization options such as bar charts, line graphs, and pie charts to represent sales trends, comparisons, and performance metrics accurately. I learned how to use filters, slicers, and other interactive elements to allow users to drill down into the data for more detailed insights. Additionally, I created calculated columns and measures using DAX (Data Analysis Expressions) to enhance the dashboard's analytical capabilities.
+
+To ensure that the dashboard met the needs of the end-users, I collaborated closely with team members and stakeholders to understand their specific requirements and the key performance indicators (KPIs) they needed to monitor. This collaboration helped me tailor the dashboard to provide relevant and actionable insights.
+
+I also spent time learning how to integrate Power BI with other data sources and tools, such as Excel and SQL Server, which broadened my understanding of the data ecosystem within the company. This integration knowledge is crucial for creating comprehensive and connected data solutions.
+
+By the end of the week, I had developed a functional prototype of the sales dashboard. This prototype included various visualizations that effectively communicated sales performance and trends. I presented the prototype to my team for feedback, which included suggestions for improvements and additional features. This iterative process will help refine the dashboard and ensure it meets all user requirements.
+
+
+
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
 - Advanced skills in Tableau for data visualization and storytelling.
