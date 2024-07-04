@@ -113,6 +113,39 @@ By the end of the week, I had developed a functional prototype of the sales dash
 
 - This week’s efforts provided me with the necessary background knowledge and prepared me for the upcoming tasks in the loan approval prediction project.
 
+### Week 8: July 1st - July 5th
+## Basics of Machine Learning
+
+### What is Machine Learning?
+Machine Learning (ML) is a field of artificial intelligence that focuses on developing algorithms and statistical models that enable computers to learn from data and make predictions or decisions without being explicitly programmed. ML encompasses various methods and techniques to analyze data, identify patterns, and make informed predictions.
+
+### Types of Machine Learning
+1. **Supervised Learning:** Models are trained on labeled data with known outcomes. Common algorithms include Linear Regression for continuous outcomes and Logistic Regression for binary classification.
+
+2. **Unsupervised Learning:** Models work with unlabeled data to find patterns or group similar data points. Techniques include K-Means Clustering for grouping data and Principal Component Analysis (PCA) for dimensionality reduction.
+
+3. **Semi-Supervised Learning:** Combines a small amount of labeled data with a large amount of unlabeled data. It’s useful for situations where labeling data is costly or time-consuming.
+
+4. **Reinforcement Learning:** Models learn by interacting with an environment and receiving rewards or penalties. Examples include Q-Learning and Deep Q-Networks.
+
+### Basic Algorithms
+- **Linear Regression:** Predicts a continuous value.
+- **Logistic Regression:** Classifies binary outcomes.
+- **Decision Trees:** Makes decisions based on feature values.
+- **Random Forest:** Uses an ensemble of decision trees.
+
+### Model Evaluation Metrics
+- **Accuracy:** Proportion of correct predictions.
+- **Precision:** True positives divided by the sum of true and false positives.
+- **Recall:** True positives divided by the sum of true positives and false negatives.
+
+### Feature Engineering and Hyperparameter Tuning
+- **Feature Engineering:** Creating or modifying features to improve model performance.
+- **Hyperparameter Tuning:** Adjusting model parameters to enhance performance using techniques like Grid Search and Random Search.
+
+### Overfitting and Underfitting
+- **Overfitting:** Model performs well on training data but poorly on new data.
+- **Underfitting:** Model is too simple to capture the data’s patterns.
 
 ## Skills Learned
 - Proficiency in Power BI for creating and maintaining interactive dashboards.
