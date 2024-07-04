@@ -55,6 +55,7 @@ As a Data Analyst, my key responsibilities include:
 
 By the end of the week, I had developed a functional prototype of the sales dashboard. This prototype included various visualizations that effectively communicated sales performance and trends. I presented the prototype to my team for feedback, which included suggestions for improvements and additional features. This iterative process will help refine the dashboard and ensure it meets all user requirements.
 
+![Sales Dashboard](images/sales_dashboard.png)
 
 
 ## Skills Learned
